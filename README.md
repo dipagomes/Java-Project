@@ -1,1 +1,3 @@
 # Java-Project
+I have created a project named Book Shop Inventory System which is a window-based application. Here I have used Java Swing to create this project. This system can be used as an information management system for the bookstore. Here I also use a sorting algorithm which will sort the customer registration code to get entry in the bookstore.<br>
+The purpose of the project is to manage the books in a book shop. In the present system user has to do all work manually. In present system During issuing order of more stock, the product register is required to check to availability of stock in hand. And it takes time to check records. But in future I want to make it more user friendly and want to make it an international application
